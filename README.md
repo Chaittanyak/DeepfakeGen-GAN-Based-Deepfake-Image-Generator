@@ -17,7 +17,7 @@ We utilized a conditional GAN approach, which involves adding a conditioning lab
 
 We leveraged the CelebA dataset, a well-known dataset commonly used for face generation and deepfake creation. The CelebA dataset comprises approximately 200,000 images of celebrity faces, each accompanied by annotations such as identity, gender, and age.
 
-## Jupyter Notebook Contents
+## IPYNB Notebook Contents
 
 In our Git repository, you'll find a Jupyter notebook that outlines the steps involved in creating the deepfake image generation model. The notebook is structured as follows:
 
